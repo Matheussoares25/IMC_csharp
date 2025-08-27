@@ -1,0 +1,7 @@
+C:\Users\lab1062\Desktop\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\lab1062\Desktop\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\lab1062\Desktop\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\lab1062\Desktop\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.AssemblyReference.cache
+C:\Users\lab1062\Desktop\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\lab1062\Desktop\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\lab1062\Desktop\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb
